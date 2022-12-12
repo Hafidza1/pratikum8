@@ -189,4 +189,4 @@ dataMhs.tampilkan()
 
 #### Tampilan Program Ketika Dijalankan
 
-![gambar](pr8/8.1.png)
+![gambar](gambar/bar1.png)
