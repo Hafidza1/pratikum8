@@ -10,6 +10,9 @@ Buat program sederhana dengan mengaplikasikan penggunaan class. Buatlah class un
 - Method -ubah(nama) Untuk mengubah data berdasarkan nama
 - Buatlah diagram class, Flowchart dan penjelasan pada README.md
 - Commit dan push repository ke Github
+![gambar1](gambar/gg2.png)
+
+
 
 # Daftar nilai mahasiswa menggunakan class
 
