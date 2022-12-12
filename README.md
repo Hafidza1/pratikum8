@@ -16,7 +16,6 @@
 
 - Commit dan push repository ke Github
 
-###### ^^ Terima Kasih ^^
 
 ### Daftar Nilai Mahasiswa menggunakan *class*
 
